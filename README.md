@@ -24,7 +24,7 @@ Finalista do **Google Career 2024** · +30 certificações em Alura, IBM e AWS
 | [Jogo do Número Secreto](https://github.com/Kroida/JogoDoNumeroSecreto) | Jogo de lógica com DOM e eventos | HTML · JS |
 | [Imersão Dev com Gemini](https://github.com/Kroida/ImersaoDev) | App com AI generativa (Google Gemini API) | JS · API |
 | [Java — OOP na prática](https://github.com/Kroida/Alura-java-aplicando-a-orientacao-a-objetos) | Série completa: herança, polimorfismo, API REST, arquivos | Java |
-| [Trabalho Final ADS](https://github.com/Kroida/Trabalho-Final-Semestre1-DW-ADS) | Projeto final do semestre com HTML/CSS responsivo | HTML · CSS |
+| [Trabalho Final ADS](https://github.com/Kroida/Trabalho-Final-Semestre2-DW-ADS) | Projeto final do semestre com HTML/CSS responsivo | HTML · CSS |
 
 ---
 
