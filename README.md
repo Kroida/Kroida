@@ -1,7 +1,7 @@
 # Olá, sou o Luís(Kroida) 👋
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na UniSenac (4º sem.) · Porto Alegre, RS  
-Finalista do **Google Career 2024** · +30 certificações em Alura, IBM e AWS
+Finalista do **Geração Caldeira 2024** · +30 certificações em Alura, IBM e AWS
 
 ---
 
