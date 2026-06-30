@@ -26,6 +26,13 @@ Finalista do **Google Career 2024** · +30 certificações em Alura, IBM e AWS
 
 ---
 
+## 📈 GitHub Stats
+
+![Kroida's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kroida&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kroida&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-neopomoceno-49b616286/)
