@@ -1,6 +1,6 @@
 # Olá, sou o Luís(Kroida) 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na UniSenac (4º sem.) · Porto Alegre, RS  
+Estudante de **Análise e Desenvolvimento de Sistemas** na UniSenac (5º sem.) · Porto Alegre, RS  
 Finalista do **Geração Caldeira 2024** · +30 certificações em Alura, IBM e AWS
 
 ---
@@ -21,9 +21,9 @@ Finalista do **Geração Caldeira 2024** · +30 certificações em Alura, IBM e 
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [Site de restaurante com PHP e JS](https://github.com/Kroida/faculdade-ads-programacao-web-trabalho-final) | Site com operações completas de CRUD integrado ao SQL, painel personalizado para usuário ADM e JS doom com eventos | PHP · JS · SQL |
-| [Imersão Dev com Gemini](https://github.com/Kroida/ImersaoDev) | App com AI generativa (Google Gemini API) | JS · API |
+| [Pesquisador de Mods — OCR e Automação de Buscas](https://github.com/Kroida/pesquisador-de-mods) | Programa que converte linhas em pesquisas automatizadas e retorna um log contendo os respectivos mods e suas urls | PY · API |
 | [Java — OOP na prática](https://github.com/Kroida/Alura-java-aplicando-a-orientacao-a-objetos) | Série completa: herança, polimorfismo, API REST, arquivos | Java |
-| [Trabalho Final ADS](https://github.com/Kroida/Trabalho-Final-Semestre2-DW-ADS) | Projeto final do semestre com HTML/CSS responsivo | HTML · CSS |
+| [Trabalho Final de Desenvolvimento Web](https://github.com/Kroida/Trabalho-Final-Semestre2-DW-ADS) | Projeto final do semestre com HTML/CSS responsivo | HTML · CSS |
 
 ---
 
