@@ -29,8 +29,6 @@ Finalista do **Geração Caldeira 2024** · +30 certificações em Alura, IBM e 
 
 ## 📈 GitHub Stats
 
-> ⚡ Os cards são regenerados automaticamente pelo GitHub Actions a cada 6 horas.
-
 <div align="center">
 
   <img
