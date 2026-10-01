@@ -34,7 +34,7 @@ Finalista do **Geração Caldeira 2024** · +30 certificações em Alura, IBM e 
 <div align="center">
 
   <img
-    src="https://raw.githubusercontent.com/Kroida/Kroida/main/profile-summary-card-output/tokyonight/0-profile-details.svg"
+    src="https://raw.githubusercontent.com/Kroida/Kroida/main/profile-summary-card-output/tokyonight/0-profile-details.svg?v=2"
     alt="Detalhes do perfil de Kroida"
     width="100%"
   />
@@ -43,14 +43,14 @@ Finalista do **Geração Caldeira 2024** · +30 certificações em Alura, IBM e 
     <tr>
       <td width="50%" align="center">
         <img
-          src="https://raw.githubusercontent.com/Kroida/Kroida/main/profile-summary-card-output/tokyonight/3-stats.svg"
+          src="https://raw.githubusercontent.com/Kroida/Kroida/main/profile-summary-card-output/tokyonight/3-stats.svg?v=2"
           alt="Estatísticas do GitHub"
           width="100%"
         />
       </td>
       <td width="50%" align="center">
         <img
-          src="https://raw.githubusercontent.com/Kroida/Kroida/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+          src="https://raw.githubusercontent.com/Kroida/Kroida/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg?v=2"
           alt="Linguagens por repositório"
           width="100%"
         />
