@@ -1,33 +1,64 @@
 name: GitHub Profile Summary Cards
 
 on:
-  # Executa diariamente à meia-noite no horário de Brasília.
-  schedule:
-    - cron: "0 3 * * *"
+  # Atualiza os cards quando a automação muda.
+  push:
+    paths:
+      - ".github/workflows/profile-summary-cards.yml"
+      - ".github/scripts/**"
 
-  # Permite executar manualmente pela aba Actions.
+  # Atualiza os cards 4 vezes por dia.
+  # 17 evita o pico comum do início exato da hora.
+  schedule:
+    - cron: "17 */6 * * *"
+
+  # Permite atualização imediata pela aba Actions.
   workflow_dispatch:
+
+concurrency:
+  group: profile-summary-cards
+  cancel-in-progress: false
 
 jobs:
   generate-cards:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
 
     permissions:
       contents: write
 
     steps:
       - name: Baixar repositório
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Gerar cards do perfil
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
           UTC_OFFSET: -3
-          AUTO_PUSH: true
+          EXCLUDE: "HTML,CSS"
+          AUTO_PUSH: false
           THEME: tokyonight
           ANIMATION: load
           DURATION: 3
+
+      - name: Aplicar identidade visual
+        run: python3 .github/scripts/customize_profile_cards.py
+
+      - name: Publicar cards atualizados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile-summary-card-output
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração nos cards."
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub profile stats"
+          git push origin main
