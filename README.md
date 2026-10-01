@@ -20,10 +20,10 @@ Finalista do **Geração Caldeira 2024** · +30 certificações em Alura, IBM e 
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [Site de restaurante com PHP e JS](https://github.com/Kroida/faculdade-ads-programacao-web-trabalho-final) | Site com operações completas de CRUD integrado ao SQL, painel personalizado para usuário ADM e JS doom com eventos | PHP · JS · SQL |
-| [Pesquisador de Mods — OCR e Automação de Buscas](https://github.com/Kroida/pesquisador-de-mods) | Programa que converte linhas em pesquisas automatizadas e retorna um log contendo os respectivos mods e suas urls | PY · API |
+| [Site de restaurante com PHP e JS](https://github.com/Kroida/faculdade-ads-programacao-web-trabalho-final) | Site com operações completas de CRUD integrado ao SQL, painel personalizado para usuário ADM e JS DOM com eventos | PHP · JS · SQL |
+| [Pesquisador de Mods — OCR e Automação de Buscas](https://github.com/Kroida/pesquisador-de-mods) | Programa que converte linhas em pesquisas automatizadas e retorna um log contendo os respectivos mods e suas URLs | PY · API |
 | [Java — OOP na prática](https://github.com/Kroida/Alura-java-aplicando-a-orientacao-a-objetos) | Série completa: herança, polimorfismo, API REST, arquivos | Java |
-| [Requisições HTTP com Java](https://github.com/Kroida/Alura-java-consumindo-API-gravando-arquivos-e-lidando-com-erros) | Projeto Java do curso da Alura sobre consumo de APIs, manipulação de JSON e tratamento de exceções. | Java |
+| [Requisições HTTP com Java](https://github.com/Kroida/Alura-java-consumindo-API-gravando-arquivos-e-lidando-com-erros) | Projeto Java do curso da Alura sobre consumo de APIs, manipulação de JSON e tratamento de exceções | Java |
 
 ---
 
@@ -59,6 +59,7 @@ Finalista do **Geração Caldeira 2024** · +30 certificações em Alura, IBM e 
   </table>
 
 </div>
+
 ---
 
 ## 📬 Contato
