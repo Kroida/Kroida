@@ -29,13 +29,7 @@ Finalista do **Geração Caldeira 2024** · +30 certificações em Alura, IBM e 
 
 ## 📈 GitHub Stats
 
-<!--
-Cards gerados diariamente pelo workflow:
-.github/workflows/profile-summary-cards.yml
-
-Como os arquivos ficam salvos no próprio repositório,
-o README não depende do limite do servidor público da Vercel.
--->
+> ⚡ Os cards são regenerados automaticamente pelo GitHub Actions a cada 6 horas.
 
 <div align="center">
 
@@ -45,20 +39,26 @@ o README não depende do limite do servidor público da Vercel.
     width="100%"
   />
 
-  <img
-    src="https://raw.githubusercontent.com/Kroida/Kroida/main/profile-summary-card-output/tokyonight/3-stats.svg"
-    alt="Estatísticas do GitHub"
-    width="49%"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/Kroida/Kroida/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"
-    alt="Linguagens por repositório"
-    width="49%"
-  />
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img
+          src="https://raw.githubusercontent.com/Kroida/Kroida/main/profile-summary-card-output/tokyonight/3-stats.svg"
+          alt="Estatísticas do GitHub"
+          width="100%"
+        />
+      </td>
+      <td width="50%" align="center">
+        <img
+          src="https://raw.githubusercontent.com/Kroida/Kroida/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+          alt="Linguagens por repositório"
+          width="100%"
+        />
+      </td>
+    </tr>
+  </table>
 
 </div>
-
 ---
 
 ## 📬 Contato
